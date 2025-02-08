@@ -1,0 +1,14 @@
+D:\EOlymp\EOlymp_VeryEasy\EOlymp_VeryEasy\bin\Debug\net8.0\EOlymp_VeryEasy.exe
+D:\EOlymp\EOlymp_VeryEasy\EOlymp_VeryEasy\bin\Debug\net8.0\EOlymp_VeryEasy.deps.json
+D:\EOlymp\EOlymp_VeryEasy\EOlymp_VeryEasy\bin\Debug\net8.0\EOlymp_VeryEasy.runtimeconfig.json
+D:\EOlymp\EOlymp_VeryEasy\EOlymp_VeryEasy\bin\Debug\net8.0\EOlymp_VeryEasy.dll
+D:\EOlymp\EOlymp_VeryEasy\EOlymp_VeryEasy\bin\Debug\net8.0\EOlymp_VeryEasy.pdb
+D:\EOlymp\EOlymp_VeryEasy\EOlymp_VeryEasy\obj\Debug\net8.0\EOlymp_VeryEasy.GeneratedMSBuildEditorConfig.editorconfig
+D:\EOlymp\EOlymp_VeryEasy\EOlymp_VeryEasy\obj\Debug\net8.0\EOlymp_VeryEasy.AssemblyInfoInputs.cache
+D:\EOlymp\EOlymp_VeryEasy\EOlymp_VeryEasy\obj\Debug\net8.0\EOlymp_VeryEasy.AssemblyInfo.cs
+D:\EOlymp\EOlymp_VeryEasy\EOlymp_VeryEasy\obj\Debug\net8.0\EOlymp_VeryEasy.csproj.CoreCompileInputs.cache
+D:\EOlymp\EOlymp_VeryEasy\EOlymp_VeryEasy\obj\Debug\net8.0\EOlymp_VeryEasy.dll
+D:\EOlymp\EOlymp_VeryEasy\EOlymp_VeryEasy\obj\Debug\net8.0\refint\EOlymp_VeryEasy.dll
+D:\EOlymp\EOlymp_VeryEasy\EOlymp_VeryEasy\obj\Debug\net8.0\EOlymp_VeryEasy.pdb
+D:\EOlymp\EOlymp_VeryEasy\EOlymp_VeryEasy\obj\Debug\net8.0\EOlymp_VeryEasy.genruntimeconfig.cache
+D:\EOlymp\EOlymp_VeryEasy\EOlymp_VeryEasy\obj\Debug\net8.0\ref\EOlymp_VeryEasy.dll

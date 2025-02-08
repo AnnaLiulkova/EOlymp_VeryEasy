@@ -1,0 +1,14 @@
+D:\EOlymp\EOlymp_VeryEasy\2_Digits\bin\Debug\net8.0\2_Digits.exe
+D:\EOlymp\EOlymp_VeryEasy\2_Digits\bin\Debug\net8.0\2_Digits.deps.json
+D:\EOlymp\EOlymp_VeryEasy\2_Digits\bin\Debug\net8.0\2_Digits.runtimeconfig.json
+D:\EOlymp\EOlymp_VeryEasy\2_Digits\bin\Debug\net8.0\2_Digits.dll
+D:\EOlymp\EOlymp_VeryEasy\2_Digits\bin\Debug\net8.0\2_Digits.pdb
+D:\EOlymp\EOlymp_VeryEasy\2_Digits\obj\Debug\net8.0\2_Digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\EOlymp\EOlymp_VeryEasy\2_Digits\obj\Debug\net8.0\2_Digits.AssemblyInfoInputs.cache
+D:\EOlymp\EOlymp_VeryEasy\2_Digits\obj\Debug\net8.0\2_Digits.AssemblyInfo.cs
+D:\EOlymp\EOlymp_VeryEasy\2_Digits\obj\Debug\net8.0\2_Digits.csproj.CoreCompileInputs.cache
+D:\EOlymp\EOlymp_VeryEasy\2_Digits\obj\Debug\net8.0\2_Digits.dll
+D:\EOlymp\EOlymp_VeryEasy\2_Digits\obj\Debug\net8.0\refint\2_Digits.dll
+D:\EOlymp\EOlymp_VeryEasy\2_Digits\obj\Debug\net8.0\2_Digits.pdb
+D:\EOlymp\EOlymp_VeryEasy\2_Digits\obj\Debug\net8.0\2_Digits.genruntimeconfig.cache
+D:\EOlymp\EOlymp_VeryEasy\2_Digits\obj\Debug\net8.0\ref\2_Digits.dll
